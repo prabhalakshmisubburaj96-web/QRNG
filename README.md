@@ -105,5 +105,7 @@ https://doi.org/10.1103/RevModPhys.89.015004
 
 ## License
 
-Add a license of your choice (e.g., MIT) before publishing, if you intend this
-repository to be reused by others.
+## License
+
+Licensed under the MIT License — free to use, modify, and distribute with attribution.
+
