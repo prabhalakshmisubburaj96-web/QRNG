@@ -29,9 +29,7 @@ single-qubit generation.
 | File | Description |
 |---|---|
 | `QRNG_sanitized.ipynb` | Main notebook — all code for Tasks 1-3. Credentials and job IDs are placeholders (see **Setup** below). |
-| `QRNG_Project_Report.docx` | Full write-up: literature survey, methodology, complete per-qubit results, statistical analysis, discussion, limitations, and references. |
-| `QRNG_Project_Slides.pptx` | Slide-deck summary of the project and findings. |
-| `QRNG_job_id_reference.md` | Reference table of original IBM Quantum Job IDs used to produce the results in the report (for the author's own reproducibility — see note below). |
+
 
 ## Setup
 
